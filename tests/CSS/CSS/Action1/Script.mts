@@ -1,8 +1,6 @@
-﻿
-Window("Micro Focus MyFlight Sample_3").Click 279,266 @@ hightlight id_;_725616_;_script infofile_;_ZIP::ssf1.xml_;_
-Window("Micro Focus MyFlight Sample_3").Type "abhishek" @@ hightlight id_;_725616_;_script infofile_;_ZIP::ssf2.xml_;_
-Window("Micro Focus MyFlight Sample_3").Click 378,358 @@ hightlight id_;_725616_;_script infofile_;_ZIP::ssf3.xml_;_
-Window("Micro Focus MyFlight Sample_3").Type "hp" @@ hightlight id_;_725616_;_script infofile_;_ZIP::ssf4.xml_;_
-Window("Micro Focus MyFlight Sample_3").Click 208,441 @@ hightlight id_;_725616_;_script infofile_;_ZIP::ssf5.xml_;_
-Window("Micro Focus MyFlight Sample_3").Dialog("Login Failed").WinButton("OK").Click @@ hightlight id_;_398024_;_script infofile_;_ZIP::ssf6.xml_;_
-Window("Micro Focus MyFlight Sample_3").Close
+﻿WpfWindow("Micro Focus MyFlight Sample").WpfEdit("agentName").Set "chanchal"
+WpfWindow("Micro Focus MyFlight Sample").WpfEdit("password").SetSecure "5ece647da22e5a4ee987925186969b93372697ff1ef5"
+WpfWindow("Micro Focus MyFlight Sample").WpfButton("OK").Click
+Dialog("Login Failed").WinButton("OK").Click
+WpfWindow("Micro Focus MyFlight Sample").Move 157,161
+WpfWindow("Micro Focus MyFlight Sample").Close 
