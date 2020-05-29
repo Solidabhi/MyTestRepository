@@ -1,0 +1,10 @@
+﻿Window("Inventory Management").WinObject("WindowsForms10.Window.8.app.0.").Click 42,114 @@ hightlight id_;_136040_;_script infofile_;_ZIP::ssf1.xml_;_
+Window("Inventory Management").WinObject("WindowsForms10.Window.8.app.0._2").Click 53,60 @@ hightlight id_;_1512308_;_script infofile_;_ZIP::ssf2.xml_;_
+Window("Inventory Management").WinObject("WindowsForms10.Window.8.app.0._3").Click 105,101 @@ hightlight id_;_201502_;_script infofile_;_ZIP::ssf3.xml_;_
+Window("Inventory Management").WinObject("WindowsForms10.Window.8.app.0.").Click 30,217 @@ hightlight id_;_136040_;_script infofile_;_ZIP::ssf4.xml_;_
+Window("Inventory Management").WinObject("WindowsForms10.Window.8.app.0._3").DblClick 43,166 @@ hightlight id_;_791482_;_script infofile_;_ZIP::ssf5.xml_;_
+Window("Inventory Management").WinObject("WindowsForms10.Window.8.app.0.").Click 46,280 @@ hightlight id_;_136040_;_script infofile_;_ZIP::ssf6.xml_;_
+Window("Inventory Management").WinObject("WindowsForms10.Window.8.app.0.").Click 44,327 @@ hightlight id_;_136040_;_script infofile_;_ZIP::ssf7.xml_;_
+Window("Inventory Management").WinObject("WindowsForms10.Window.8.app.0.").Click 26,58 @@ hightlight id_;_136040_;_script infofile_;_ZIP::ssf8.xml_;_
+Window("Inventory Management").WinObject("Contacts").Drag 27,140 @@ hightlight id_;_201410_;_script infofile_;_ZIP::ssf9.xml_;_
+Window("Inventory Management").WinObject("Contacts").Drop 30,138 @@ hightlight id_;_201410_;_script infofile_;_ZIP::ssf20.xml_;_
